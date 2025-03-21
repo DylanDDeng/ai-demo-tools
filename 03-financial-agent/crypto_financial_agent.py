@@ -103,5 +103,7 @@ def main():
         print("Please check your API keys and try again.")
 
 if __name__ == "__main__":
-    main()
-#  python 03-aisearch/aisearch_agent.py --crypto bitcoin --google-api-key AIzaSyB7ahTr-CMTOXpd9V72VrWxteMOPfImu3k --firecrawl-api-key fc-8540ab317e53490591ab570550759f02 --perplexity-api-key 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
+    main() 
+
+# execution command: 
+#  python 03-financial-agent/crypto_financial_agent.py --crypto bitcoin --google-api-key <YOUR_API_KEY>  --firecrawl-api-key <YOUR_API_KEY> --perplexity-api-key <YOUR_API_KEY>
