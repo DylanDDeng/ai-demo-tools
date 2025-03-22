@@ -1,10 +1,14 @@
 # AI Agent & LLM Demo Tools 🤖🔍💡
 
-This repository contains a series of demonstration projects developed during my learning and practice of AI Agent, RAG (Retrieval-Augmented Generation), and LLM (Large Language Models) related technologies. Each project showcases the capabilities of modern AI tools in different scenarios.
+This repository contains a series of demos I write about **Agent**, **RAG** and **LLMs**. There maybe some errors in this repository, because I learn this all by myself. So, if you find any bugs, or errors, please make an issue to tell me. 
+
+I hope this repository can also help you if you get any idea from this. 
+
+Thanks to Shubham for his [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
 
 ## Repository Structure
 
-The repository now consists of three main modules, each focused on different aspects of AI applications:
+The repository consists of three main modules, each focused on different aspects of AI applications:
 
 ### 01-media-generator 🎨
 Tools for creating and processing multimedia content using generative AI.
@@ -37,7 +41,7 @@ A cryptocurrency research and analysis system based on multi-agent collaboration
 
 ## Technical Highlights
 
-This repository showcases several key AI technology concepts and practices:
+This repository showcases several key AI technology concepts and practices that I've been learning:
 
 - **Multi-Agent Systems** - Demonstrates how AI agents with different specialties can work together to solve complex problems
 - **Tool Usage** - Shows how LLMs can use external tools (such as search engines, web scraping tools) to enhance their capabilities
@@ -101,7 +105,7 @@ To run these projects, you need to obtain the following API keys:
 
 ## Learning Resources
 
-This repository is a practical application of the following concepts:
+These demos represent my learning journey through the following concepts:
 
 - **Agent Frameworks** - How to build and organize AI agent systems
 - **RAG Architecture** - Practical implementation of retrieval-augmented generation
@@ -111,6 +115,8 @@ This repository is a practical application of the following concepts:
 
 ## Future Improvements
 
+I'm always looking to improve this repository. Some ideas I'm considering:
+
 - Add more agent examples for specialized domains
 - Implement RAG systems with local knowledge bases
 - Add support for multiple languages
@@ -119,4 +125,4 @@ This repository is a practical application of the following concepts:
 
 ---
 
-Contributions and improvements are welcome! This repository is intended as a platform for learning and experimentation, showcasing practical applications of AI Agent and LLM technologies. 
+Contributions and feedback are highly appreciated! This repository documents my learning journey with AI Agent and LLM technologies - I hope it can be useful for your learning as well.
