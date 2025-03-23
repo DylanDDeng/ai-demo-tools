@@ -2,7 +2,16 @@ from agno.agent import Agent
 from agno.models.openrouter import OpenRouter
 from agno.tools.thinking import ThinkingTools
 from agno.tools.yfinance import YFinanceTools    
-from textwrap import dedent 
+from textwrap import dedent  
+
+
+""" 
+
+This is a example of using the thinking tool published by Anthropic. 
+This example is from Agno   
+
+
+"""
 
 
 
