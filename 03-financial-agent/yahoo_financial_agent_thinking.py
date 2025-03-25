@@ -9,8 +9,6 @@ from textwrap import dedent
 
 This is a example of using the thinking tool published by Anthropic. 
 This example is from Agno   
-
-
 """
 
 
